@@ -1,11 +1,13 @@
 # oop-patterns-in-ts
 A short article about OOP patterns with an TypeScript's implementation
 
-## Observer
+There are 5 patterns:
 
-### Overview
-```The Observer design pattern is one of the twenty-three well-known "Gang of Four" design patterns that describe how to solve recurring design problems to design flexible and reusable object-oriented software, that is, objects that are easier to implement, change, test, and reuse.``` - Wikipedia.
+1. Abstract Factory
+2. Fluent
+3. Observer
+4. Singletone
+5. Type safe composition.
 
-### Usage
-### Implementation
-### Summary
+Link to the presentation:
+https://docs.google.com/presentation/d/1_7zRufd3Hcd543FGtX3AZzIMRtHE3fm4BlJ0jqZjoLQ/edit?usp=sharing
